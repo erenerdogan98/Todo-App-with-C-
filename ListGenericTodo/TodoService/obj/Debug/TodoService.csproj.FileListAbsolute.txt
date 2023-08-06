@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\TodoService.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\TodoService.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\SanalDatabaseClassLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\TodoLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\UserLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\SanalDatabaseClassLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\TodoLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\bin\Debug\UserLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\obj\Debug\TodoService.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\obj\Debug\TodoService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\obj\Debug\TodoService.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\obj\Debug\TodoService.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\TodoService\obj\Debug\TodoService.pdb

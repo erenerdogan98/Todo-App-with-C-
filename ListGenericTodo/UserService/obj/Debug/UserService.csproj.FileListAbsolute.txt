@@ -1,0 +1,3 @@
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserService\obj\Debug\UserService.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserService\obj\Debug\UserService.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserService\obj\Debug\UserService.csproj.CoreCompileInputs.cache

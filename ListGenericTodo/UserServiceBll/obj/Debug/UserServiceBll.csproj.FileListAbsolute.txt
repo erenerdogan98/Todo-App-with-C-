@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\obj\Debug\UserServiceBll.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\obj\Debug\UserServiceBll.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\UserServiceBll.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\UserServiceBll.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\SanalDatabaseClassLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\TodoLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\UserLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\SanalDatabaseClassLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\TodoLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\bin\Debug\UserLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\obj\Debug\UserServiceBll.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\obj\Debug\UserServiceBll.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\UserServiceBll\obj\Debug\UserServiceBll.pdb

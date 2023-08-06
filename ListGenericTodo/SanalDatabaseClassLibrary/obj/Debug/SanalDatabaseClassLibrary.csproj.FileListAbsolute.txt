@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\obj\Debug\SanalDatabaseClassLibrary.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\obj\Debug\SanalDatabaseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\SanalDatabaseClassLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\SanalDatabaseClassLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\TodoLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\UserLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\TodoLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\bin\Debug\UserLibrary.pdb
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\obj\Debug\SanalDatabaseClassLibrary.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\obj\Debug\SanalDatabaseClassLibrary.dll
+C:\Users\lenovo\source\repos\ListGenericTodoApp\ListGenericTodo\SanalDatabaseClassLibrary\obj\Debug\SanalDatabaseClassLibrary.pdb
